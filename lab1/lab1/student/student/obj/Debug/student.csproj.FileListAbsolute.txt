@@ -1,0 +1,9 @@
+D:\220953496\lab1\student\student\bin\Debug\student.exe.config
+D:\220953496\lab1\student\student\bin\Debug\student.exe
+D:\220953496\lab1\student\student\bin\Debug\student.pdb
+D:\220953496\lab1\student\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+D:\220953496\lab1\student\student\obj\Debug\student.Form1.resources
+D:\220953496\lab1\student\student\obj\Debug\student.Properties.Resources.resources
+D:\220953496\lab1\student\student\obj\Debug\student.csproj.GenerateResource.Cache
+D:\220953496\lab1\student\student\obj\Debug\student.exe
+D:\220953496\lab1\student\student\obj\Debug\student.pdb
